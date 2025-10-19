@@ -1,0 +1,19 @@
+# Raw and cleaned data (too large for GitHub)
+data/accepted_loans.csv
+data/rejected_loans.csv
+data/clean_data/accepted_loans_cleaned.csv
+data/clean_data/rejected_loans_cleaned.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
