@@ -3,6 +3,7 @@ data/accepted_loans.csv
 data/rejected_loans.csv
 data/clean_data/accepted_loans_cleaned.csv
 data/clean_data/rejected_loans_cleaned.csv
+data/sample_data/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
