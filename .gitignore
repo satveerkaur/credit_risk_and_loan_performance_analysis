@@ -1,6 +1,7 @@
 # Raw and cleaned data (too large for GitHub)
 data/raw/*
 data/processed/*
+!data/processed/risk_segmentation_report.xlsx
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
