@@ -137,7 +137,7 @@ To run the analysis locally and reproduce the final report, please follow these 
 1.  **Dependencies:** Install required Python libraries:
 
     ```
-    pip install pandas numpy scikit-learn seaborn jupyter
+    pip install pandas numpy scikit-learn seaborn jupyter matplotlib
     ```
 
 2.  **Data Acquisition:** Obtain the historical LendingClub Accepted Loans Dataset and place it in a `data/raw/` directory with the filename `loan_data_raw.csv`. **You can download the raw data directly from [this source](https://www.kaggle.com/datasets/wordsforthewise/lending-club).**
@@ -149,6 +149,6 @@ To run the analysis locally and reproduce the final report, please follow these 
 | Acronym | Definition |
 | :--- | :--- |
 | **ODR** | **Observed Default Rate:** The percentage of loans in the portfolio that have officially defaulted or been charged off. |
-| **DTI** | **Debt-to-Income:** A key credit metric indicating a borrower's monthly debt payments divided by their monthly gross income. |
+| **DTI Quintile** | **Debt-to-Income Quintile:** A categorical risk segment (Q1 to Q5) created by dividing the raw DTI data into five equally sized groups. Used to validate risk concentration. |
 | **FICO** | **FICO Score:** A commonly used credit score used to assess creditworthiness. |
 | **BI** | **Business Intelligence:** Tools used to visualize data and derive insights (e.g., Tableau, Power BI). |
