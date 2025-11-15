@@ -20,7 +20,7 @@ To conduct an in-depth data audit to identify the root causes of a critical poli
 ---
 
 ## 1. The Business Problem
-The lending institution faced an immediate crisis as the overall loan portfolio's Observed Default Rate (ODR) had spiked to **≈ 17.06%**. This rate is nearly double the acceptable risk threshold of **10.0%**, signaling a profound failure in current underwriting models and leading to unmanageable losses.
+The lending institution faced an immediate crisis as the overall loan portfolio's Observed Default Rate (ODR) had spiked to **≈ 11.92%**. This rate is nearly double the acceptable risk threshold of **10.0%**, signaling a profound failure in current underwriting models and leading to unmanageable losses.
 
 ---
 
@@ -69,7 +69,7 @@ The audit followed a structured, four-phase analytical pipeline to ensure the fi
 # III. The Outcome: Key Insights & Recommendations
 
 ## 5. Executive Summary
-The audit confirmed the approx. 17.06% ODR policy failure. The primary driver of the loss is a failure in capacity-based underwriting, specifically the over-exposure to high-leverage Debt-to-Income (DTI) borrowers, which accounts for a disproportionate share of portfolio losses.  A secondary, systemic issue of Risk Inversion was identified in the highest FICO score tiers and, less severely, in the highest income group
+The audit confirmed the approx. 11.92% ODR policy failure. The primary driver of the loss is a failure in capacity-based underwriting, specifically the over-exposure to high-leverage Debt-to-Income (DTI) borrowers, which accounts for a disproportionate share of portfolio losses.  A secondary, systemic issue of Risk Inversion was identified in the highest FICO score tiers and, less severely, in the highest income group
 
 ---
 
